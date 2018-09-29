@@ -1,0 +1,7 @@
+{
+  "name": "EuSouOTemplo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
